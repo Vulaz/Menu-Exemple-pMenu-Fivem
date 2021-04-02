@@ -40,8 +40,6 @@ local exemple = {
 			local slide = btn.slidenum
 			local btn = btn.name
 			local check = btn.unkCheckbox
-			local opacity = btn.opacity
-
 			local closestPlayer, closestDistance = ESX.Game.GetClosestPlayer()
 			local playerPed = PlayerPedId()
 			local coords = GetEntityCoords(playerPed)
