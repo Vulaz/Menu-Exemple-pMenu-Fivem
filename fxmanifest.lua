@@ -2,7 +2,7 @@ fx_version 'adamant'
 games { 'gta5 ' };
 
 client_scripts {
-  'cl_menu',
+  'cl_menu'
 }
 
 dependencies {
