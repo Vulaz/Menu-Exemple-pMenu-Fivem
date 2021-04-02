@@ -1,4 +1,11 @@
 # Menu-Exemple-pMenu-Fivem
-Exemple menu en pmenu
 
-# FIVEM
+En espérant vous avoir aidé.
+
+# Instalation
+
+Mettre dans votre dossier resources.
+
+start Menu-Exemple-pMenu-Fivem 
+
+;)
